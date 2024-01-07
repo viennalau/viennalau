@@ -1,7 +1,7 @@
-<h1 align="center">Hey👋🏻, I'm Vienna!</h1>
+<h1 align="center">Hey👋🏻, I'm Vienna 👩🏻‍💻!</h1>
 <h3 align="center">High school Junior studying Information Technology, planning to major in Computer Science</h3>
 
-- 👩🏻‍💻 I’m currently working on my Martian Project for my Computer Science II class
+- 🌕 I’m currently working on my Martian Project for my Computer Science II class
 
 - 🏫 I’m currently learning **Python, Networking, and Cybersecurity**
 
