@@ -1,9 +1,11 @@
 <h1 align="center">Hey👋🏻, I'm Vienna 👩🏻‍💻!</h1>
 <h3 align="center">A high school Junior studying Information Technology, planning to major in Computer Science</h3>
 
-- 📡 I’m currently working on my [Martian Project](https://github.com/viennalau/martian) and a VR Motion Sickness game using Godot
+- 📡 I’m currently working on my [Martian Project](https://github.com/viennalau/martian) with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal)
 
-- 🏫 I’m currently learning **Python, Networking, and Cybersecurity**
+- 🕹️ I'm also working on a VR Motion Sickness game using Godot with [Avery](https://github.com/Bugbert), link TBA!
+
+- 🏫 I’m currently learning **GDScript, Python, Networking, and Cybersecurity**
 
 - 📫 I can be reached at: **viennalau0@gmail.com**
 
