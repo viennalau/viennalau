@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋🏻, I'm Vienna 👩🏻‍💻!</h1>
-<h3 align="center">A high school Senior studying Information Technology, planning to major in Computer Science</h3>
+<h3 align="center">A high school Senior studying Information Technology, with plans to major in Computer Science</h3>
 
 - 📡 I’m currently working on a self-driving, mini ambulance that contains an AI Baymax! I am collaborating with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal) in my Robotics class.
 
