@@ -3,8 +3,6 @@
 
 - 📡 I’m currently working on a self-driving, mini ambulance that contains an AI Baymax! I am collaborating with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal) in my Robotics class.
 
-- 🕹️ I'm also working as Service Technician at Shelf2Cart Solutions through my school's co-op program.
-
 - 📫 I can be reached at: **viennalauu@gmail.com** or **https://www.linkedin.com/in/vienna-lau/**
 
 <h3 align="left">Languages and Tools:</h3>
