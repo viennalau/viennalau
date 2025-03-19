@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋🏻, I'm Vienna 👩🏻‍💻!</h1>
-<h3 align="center">A high school Senior studying Information Technology, with plans to major in Computer Science</h3>
+<h3 align="center">A high school Senior studying Information Technology, with plans to major in Computer Science and specialize in Cybersecurity!</h3>
 
-- 📡 I’m currently working on a self-driving, mini ambulance that contains an AI Baymax! I am collaborating with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal) in my Robotics class.
+- 📡 I’m currently working on [Ambumax](https://github.com/viennalau/ambumax), a self-driving, mini ambulance! I am collaborating with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal) in my Robotics class.
 
 - 📫 I can be reached at: **viennalauu@gmail.com** or **https://www.linkedin.com/in/vienna-lau/**
 
