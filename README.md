@@ -1,8 +1,6 @@
 <h1 align="center">Hey👋🏻, I'm Vienna 👩🏻‍💻!</h1>
 <h3 align="center">A college sophomore @ Tufts University, majoring in Computer Science & hoping to concentrate in Cybersecurity! </h3>
 
-- 📡 My last project was [Ambumax](https://github.com/viennalau/ambumax), a self-driving, mini ambulance! I collaborated with [Samantha](https://github.com/samanthadiggs) and [Priyani](https://github.com/priyanirawal) in my high school Robotics class.
-
 - 📫 I can be reached at: **viennalauu@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
